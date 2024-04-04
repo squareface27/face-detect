@@ -35,8 +35,8 @@ Ce projet, "Face Detector", est un outil développé en quelques heures permetta
 ## Exemples d'Utilisation
 
 L'interface permet d'ajuster les paramètres du nombres de voisins et de l'échelle de rétrécissement afin d'améliorer la détection et éliminer les faux positifs.
-![image1](https://media.discordapp.net/attachments/1192252729926619136/1192252954493861949/image.png)
+![image1](https://images.squareface.fr/projets/facedetect/image.png)
 
 Une fois l'image importée, il suffit de cliquer sur le bouton "Détecter les visages et les yeux". Le nombre de visages détectés sera indiqué, et l'image avec les visages et les yeux encadrés sera créée dans le dossier 'outputs' du projet.
-![image2](https://media.discordapp.net/attachments/1192252729926619136/1192253171284848692/image.png)
+![image2](https://images.squareface.fr/projets/facedetect/image2.png)
 
